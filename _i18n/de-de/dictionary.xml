@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="71d0ee5d411b8f72f571401cdab213ac" category="doc">Unterstützung für Google Cloud NetApp Volumes in BlueXP</block>
+  <block id="775e62d1bed90f08196ce9665fe3b625" category="paragraph">Sie können Google Cloud NetApp Volumes jetzt direkt von BlueXP aus verwalten:</block>
+  <block id="bfcabace496e3d26dcf080c810ecd405" category="list-text">Fügen Sie eine Arbeitsumgebung hinzu.</block>
+  <block id="ee07da92eddb189dc56635b6831f1856" category="list-text">Zeigen Sie Ihre Bände an.</block>
+  <block id="f842a501bbdfa7f71ac344c36591a1b8" category="list-text">Entfernen Sie Ihre Arbeitsumgebung.</block>
+  <block id="811a937f1bd1c87a00074062fd769216" category="summary">Google Cloud NetApp Volumes ermöglicht Unternehmen die Migration und Ausführung ihrer leistungsintensiven und latenzempfindlichen geschäftskritischen Kernanwendungen in Google, ohne dass eine Umgestaltung für die Cloud erforderlich ist.</block>
+  <block id="d4ea9d22a78aa0f221f5114fcccba7f2" category="doc">Erfahren Sie mehr über Google Cloud NetApp Volumes</block>
+  <block id="274b1c082fef0934ab0e0304a04e639a" category="paragraph">Google Cloud NetApp Volumes ist ein vollständig gemanagter, Cloud-basierter Storage-Service, der erweiterte Datenmanagementfunktionen und hochskalierbare Performance bietet.</block>
+  <block id="9fdfd6242709fbbed5b8f0dbd226ee4c" category="paragraph">NetApp Volumes hilft Ihnen, Bereitstellungszeiten zu verkürzen, Ihre Workloads und Anwendungen zu verwalten und Workloads in die Cloud zu migrieren, während die Leistung und Funktionen des lokalen Speichers erhalten bleiben.</block>
+  <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">Merkmale</block>
+  <block id="387fd2aaaa87adcc276a6ea1c2466214" category="list-text">Führt Unternehmensanwendungen schneller und effizienter aus.</block>
+  <block id="5fe1f83d1eb232189761cc9a9e030341" category="list-text">Reduziert die Kosten für Cloud-Speicher um bis zu 90 %.</block>
+  <block id="fc5d7ec9436df0608880c6c151d6c723" category="list-text">Erfüllt die Anforderungen hinsichtlich Betriebszeit, Verfügbarkeit und Sicherheit.</block>
+  <block id="32fa45782061cd6846644c59eab5aae0" category="list-text">Unterstützt NFS-, SMB- und Multiprotokollumgebungen.</block>
+  <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">Kosten</block>
+  <block id="fd2fe087792cd9f346c50f222f509f01" category="paragraph">Für die von Google Cloud NetApp Volumes erstellten Volumes fallen Gebühren über Ihr Abonnement des Dienstes an, nicht über BlueXP.</block>
+  <block id="9f553afcda69492bb7dc6a50d3049912" category="paragraph">Für die Erkennung einer Google Cloud NetApp Volumes Region oder eines Google Cloud NetApp Volumes-Volumes von BlueXP fallen keine Gebühren an.</block>
+  <block id="8c4b25218155a1fdb972f4169855d04f" category="section-title">Unterstützte Regionen</block>
+  <block id="c70f394ded6ddc37b0087f6416c6ab0e" category="inline-link">Unterstützte Google Cloud NetApp Volumes Regionen anzeigen</block>
+  <block id="d66d1ffdbede5eeb67a7877ba239591e" category="paragraph"><block ref="d66d1ffdbede5eeb67a7877ba239591e" category="inline-link-rx"></block></block>
+  <block id="20c404f3ca0633629eee9b1b4ccd6737" category="section-title">Hilfe wird abgerufen</block>
+  <block id="38e4a919380fe686986d948187a51746" category="paragraph">Für technischen Support stellen Sie bitte eine Anfrage über das Google Cloud-Portal. Wählen Sie Ihr Google Cloud-Abonnement und unter „Speicher“ den Dienst „Google Cloud NetApp Volumes“ aus. Geben Sie die erforderlichen Informationen ein.</block>
+  <block id="b0d5958387777e6e2d485c0264f0b2d7" category="paragraph">Verwenden Sie den BlueXP -Chat für allgemeine Fragen zum Betrieb von Google Cloud NetApp Volumes in BlueXP.</block>
+  <block id="b9acc0622532bd3d3be29dc05101ecb0" category="paragraph">Wenn Sie allgemeine Fragen zu Google Cloud NetApp Volumes haben, senden Sie eine E-Mail an das Google Cloud-Team von NetApp unter gcinfo@netapp.com.</block>
+  <block id="bd32907910f13f745e4c4ad31b8b85f3" category="inline-link-macro">Support erhalten</block>
+  <block id="0dafa59a06c11c5d19eae05360cbf6cf" category="paragraph">Bei technischen Problemen in Verbindung mit Ihren Cloud Volumes können Sie über die Google Cloud Console einen technischen Support-Case erstellen. Weitere Informationen finden Sie unter <block ref="8f708cce2bd6518bab5a8e6f48de2399" category="inline-link-macro-rx"></block> .</block>
+  <block id="f6bd0d7447ff66cc6b859603a88fbde9" category="section-title">Weiterführende Links</block>
+  <block id="471bdb0aa2d84f6d114789368ffc1cc1" category="inline-link">Google Cloud NetApp Volumes Dokumentation</block>
+  <block id="4783fc8cfe1d67f67a21a8d696efba01" category="list-text"><block ref="4783fc8cfe1d67f67a21a8d696efba01" category="inline-link-rx"></block></block>
+  <block id="db75f0488f4e9bbad86a02da9a572896" category="inline-link">Dokumentation der BlueXP Kopier- und Synchronisierungsfunktion</block>
+  <block id="bee3f8c9efef3b37d46180b5f2f33e22" category="list-text"><block ref="bee3f8c9efef3b37d46180b5f2f33e22" category="inline-link-rx"></block></block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Rechtliche Hinweise</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">Rechtliche Hinweise ermöglichen den Zugriff auf Copyright-Erklärungen, Marken, Patente und mehr.</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">Urheberrecht</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">Marken</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp, das NETAPP Logo und die auf der NetApp Markenseite aufgeführten Marken sind Marken von NetApp Inc. Andere Firmen- und Produktnamen können Marken der jeweiligen Eigentümer sein.</block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">Patente</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">Eine aktuelle Liste der NetApp Patente finden Sie unter:</block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">Datenschutzrichtlinie</block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Open Source</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">In den Benachrichtigungsdateien finden Sie Informationen zu Urheberrechten und Lizenzen von Drittanbietern, die in der NetApp Software verwendet werden.</block>
+  <block id="c95623cd0395d5a6bb6105b9d32f197b" category="inline-link">Hinweis für BlueXP</block>
+  <block id="52ba8ac12050d2494572b940a0d65b25" category="paragraph"><block ref="52ba8ac12050d2494572b940a0d65b25" category="inline-link-rx"></block></block>
+  <block id="46a16a87c9a7094594706aec2c316b1f" category="summary">Sie müssen den Benutzern von Google Cloud NetApp Volumes die Administratorrolle zuweisen, bevor sie Volumes in BlueXP erkennen können.</block>
+  <block id="dd71e40069f8d28227a57c7c7b96cf9c" category="doc">Weisen Sie die Rolle „Google Cloud NetApp Volumes Administrator“ zu</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Schritte</block>
+  <block id="18410f1a8f7ef8e08d8424b98e8f8b7d" category="inline-image-macro">Das Einstellungssymbol oben rechts.</block>
+  <block id="ad5c01412c25878a0856ba167676d169" category="list-text">Wählen Sie oben rechts in der BlueXP -Konsole &gt; *Identitäts- und Zugriffsmanagement* aus<block ref="f4a9680dc3269d61ad52545906cc850a" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="b0afff19aa3343a6f86619d833dbd316" category="inline-image-macro">Ein Symbol, das drei seitliche Punkte ist</block>
+  <block id="a4e257e81b6cc81f31c7105baf6f8400" category="list-text">Suchen Sie auf der Seite *Mitglieder* ein Mitglied in der Tabelle, wählen Sie <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> und wählen Sie dann *Rolle hinzufügen*.</block>
+  <block id="5f4f2140800f25dcab7691933bfbdbdb" category="list-text">Führen Sie zum Hinzufügen einer Rolle die folgenden Schritte im Dialogfeld aus:</block>
+  <block id="1ecba737086562de0c9a665208880348" category="list-text">*Wählen Sie eine Organisation, einen Ordner oder ein Projekt aus*: Wählen Sie die Ebene Ihrer Ressourcenhierarchie, für die das Mitglied Berechtigungen haben soll, und klicken Sie auf *Akzeptieren*</block>
+  <block id="2000548d1a967f006f86a93492ac094f" category="paragraph">Durch die Auswahl einer Organisation oder eines Ordners erhält das Mitglied die Berechtigung,</block>
+  <block id="0e6e1e539b578c2b0388d566d8ae4e15" category="inline-link-macro">Erfahren Sie mehr über Zugriffsrollen</block>
+  <block id="16dc306cdff4c0ae32c903818b903eea" category="list-text">*Kategorie auswählen*: Wählen Sie eine Rollenkategorie. <block ref="a51247ccde87e175c686e81825c9f657" category="inline-link-macro-rx"></block>.</block>
+  <block id="b775c07b408fbc20af51e7858ab84ee4" category="list-text">Wählen Sie eine *Rolle*: Wählen Sie die GCNV-Rolle und klicken Sie auf *Akzeptieren*.</block>
+  <block id="2517380aae5c1f54daeeb4078c9a7f26" category="list-text">Klicken Sie auf *Neue Rolle hinzufügen*.</block>
+  <block id="c9517c84e65e66feb51a457adecedd55" category="paragraph"><block ref="a51247ccde87e175c686e81825c9f657" category="inline-link-macro-rx"></block>.</block>
+  <block id="f3585c61662b03a3f4563f841d2297fe" category="summary">Fügen Sie in BlueXP eine Netapp Volumes-Arbeitsumgebung für Google Cloud hinzu, um Volumes anzuzeigen und zu verwalten.</block>
+  <block id="c6271395f4ef3fdf77347d8be7d3c766" category="doc">Fügen Sie eine Google Cloud NetApp Volumes -Arbeitsumgebung hinzu</block>
+  <block id="cbc669f748ed044432dcc549329eb2cc" category="paragraph">Nachdem Sie ein Dienstkonto eingerichtet haben, fügen Sie in BlueXP eine Google Cloud NetApp Volumes Arbeitsumgebung hinzu, damit Sie Ihre Google Cloud NetApp Volumes Instanzen anzeigen können.</block>
+  <block id="0c18de35117799b5dc1a8e46c08a12f2" category="paragraph">Cloud-Volumes für dieses Abonnement werden in der Arbeitsumgebung angezeigt.</block>
+  <block id="b7c67692dc38dca98edc62b4b29f83d8" category="admonition">Wenn Sie Abonnements und Volumes in mehreren Google Cloud-Projekten haben, müssen Sie diese Aufgabe für jedes Projekt ausführen.</block>
+  <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">Bevor Sie beginnen</block>
+  <block id="107a414e0bf62dc36bb6bbde7bcd19de" category="paragraph">Beim Hinzufügen eines Abonnements für jedes Projekt müssen Sie über die folgenden Informationen verfügen:</block>
+  <block id="61d55eb42b926e824d916fc29d4b2127" category="list-text">Zugangsdaten für ein Servicekonto (JSON-privater Schlüssel, den Sie heruntergeladen haben)</block>
+  <block id="7adea0d9c77aabccd8bb67ae0a832d59" category="list-text">Projektname</block>
+  <block id="520851e11d4657fa15ed8a11da0eec00" category="list-text">Wählen Sie im Navigationsmenü von BlueXP *Storage &gt; Canvas*.</block>
+  <block id="919909054e594ea2b451faaaf9bdfd5d" category="list-text">Wählen Sie auf der Canvas-Seite *Arbeitsumgebung hinzufügen* und dann *Google Cloud Platform*.</block>
+  <block id="e9a7e0b26f41400660614defd78195f2" category="list-text">Wählen Sie neben *Google Cloud Netapp Volumes* die Option *Discover* aus.</block>
+  <block id="7c14b79a004cd03beb355cf7f4bed919" category="list-text">Geben Sie Informationen zu Ihrem NetApp Volumes-Abonnement an:</block>
+  <block id="620a619e5abf90904f8bd9148673563f" category="list-text">Geben Sie den Namen der Arbeitsumgebung ein, die Sie verwenden möchten.</block>
+  <block id="56bab707c78784ba9b87a1e53b01fb02" category="list-text">Kopieren Sie den JSON-privaten Schlüssel, den Sie in den vorherigen Schritten heruntergeladen haben, und fügen Sie ihn ein.</block>
+  <block id="7544f205c012f616ca0cc93fa7af717b" category="list-text">Wählen Sie *Anmeldeinformationen anwenden*.</block>
+  <block id="98061d4b41ea7e9a2f4ca7bbd84f29b8" category="list-text">Wählen Sie den Namen Ihres Google Cloud-Projekts aus.</block>
+  <block id="ddb5df42c78f2cbb5e110cc3a1e67a99" category="list-text">Wählen Sie die Region aus, in der Sie die Arbeitsumgebung erstellen möchten. Die Region muss eine der unterstützten Regionen für Google Cloud NetApp Volumes sein.</block>
+  <block id="6717014f0e48b7ab08c9846925b42c93" category="list-text">Wählen Sie * Entdecken*.</block>
+  <block id="4f89df11c9b6b2ee89c887a99d93c72b" category="inline-image-macro">Ein Screenshot des Hinzufügens von Anmeldeinformationen für ein Google Cloud NetApp Volumes -Abonnement.</block>
+  <block id="d7439065551300ab23be3871e7bbaff4" category="paragraph"><block ref="d7439065551300ab23be3871e7bbaff4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">Ergebnis</block>
+  <block id="14e54ad50d3b5454d83760e6f5178795" category="paragraph">BlueXP zeigt Ihre Google Cloud NetApp Volumes Arbeitsumgebung an.</block>
+  <block id="9c419fde324155910559b002c5f64fe5" category="inline-image-macro">Ein Screenshot der Arbeitsumgebung des Google Cloud NetApp Volumes Service.</block>
+  <block id="fc2c0288afa101e1e4bd70a28971f3dc" category="paragraph"><block ref="fc2c0288afa101e1e4bd70a28971f3dc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="58eaebf972358f1cf03d386a4ade1a0f" category="paragraph-title">Was kommt als Nächstes?</block>
+  <block id="a5e8cc908ae1a699aac38d94a8191749" category="inline-link-macro">Anzeigen Ihrer Volumina</block>
+  <block id="a61478a0e30e48b7d57fdb9d04d7786f" category="paragraph"><block ref="63c313849b46036fdbb935ff958cbabb" category="inline-link-macro-rx"></block>.</block>
+  <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp bietet Unterstützung für BlueXP auf verschiedene Weise. Umfassende kostenlose Self-Support-Optionen stehen rund um die Uhr zur Verfügung, wie etwa Knowledge Base-Artikel (KB) und ein Community-Forum. Ihre Support-Registrierung umfasst technischen Remote-Support über Web-Ticketing.</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">Holen Sie sich Hilfe</block>
+  <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp bietet Unterstützung für BlueXP und seine Cloud-Services auf unterschiedliche Weise. Umfassende kostenlose Self-Support-Optionen stehen rund um die Uhr zur Verfügung, wie etwa Knowledge Base-Artikel (KB) und ein Community-Forum. Ihre Support-Registrierung umfasst technischen Remote-Support über Web-Ticketing.</block>
+  <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">Unterstützung für Fileservices von Cloud-Providern</block>
+  <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Technischen Support zu Fileservices von Cloud-Providern, zu seiner Infrastruktur oder zu beliebigen Lösungen, die den Service verwenden, finden Sie im Abschnitt „Hilfe erhalten“ in der BlueXP Dokumentation zu diesem Produkt.</block>
+  <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX für ONTAP</block>
+  <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
+  <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Dateien</block>
+  <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
+  <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">Cloud Volumes Service für Google Cloud</block>
+  <block id="cf14bff66a8b72d3675db8ffe0f02ee3" category="list-text"><block ref="cf14bff66a8b72d3675db8ffe0f02ee3" category="inline-link-macro-rx"></block></block>
+  <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Wenn Sie technischen Support für BlueXP und seine Storage-Lösungen und -Services erhalten möchten, nutzen Sie die unten beschriebenen Support-Optionen.</block>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">Nutzen Sie Self-Support-Optionen</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Diese Optionen sind kostenlos verfügbar, 24 Stunden am Tag, 7 Tage die Woche:</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">Dokumentation</block>
+  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">Die BlueXP-Dokumentation, die Sie gerade anzeigen.</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Wissensdatenbank</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">Suchen Sie in der BlueXP Knowledge Base nach hilfreichen Artikeln zur Fehlerbehebung.</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Communitys</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">Treten Sie der BlueXP Community bei, um laufende Diskussionen zu verfolgen oder neue zu erstellen.</block>
+  <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">Erstellen Sie einen Fall mit dem NetApp Support</block>
+  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">Zusätzlich zu den oben genannten Self-Support-Optionen können Sie gemeinsam mit einem NetApp Support-Experten eventuelle Probleme nach der Aktivierung des Supports beheben.</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="list-title">Bevor Sie beginnen</block>
+  <block id="920fe1428c19533eda6222fe7e58efbe" category="inline-link">Managen Sie Zugangsdaten für Ihre BlueXP Anmeldung</block>
+  <block id="e1d2e1a634647fd631081bc4f6f8e523" category="list-text">Um die Funktion *Fall erstellen* nutzen zu können, müssen Sie zunächst Ihre Anmeldedaten für die NetApp Support-Website mit Ihren BlueXP -Anmeldedaten verknüpfen.<block ref="2a0d8b66ca9e99d023b48cf25f40fb12" category="inline-link-rx"></block></block>
+  <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">Wenn Sie einen Fall für ein ONTAP System mit einer Seriennummer eröffnen, muss Ihr NSS-Konto mit der Seriennummer des Systems verknüpft sein.</block>
+  <block id="7fe6981833e8fe7fd89e0a99a55573da" category="list-text">Wählen Sie in BlueXP *Hilfe &gt; Support* aus.</block>
+  <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">Wählen Sie auf der Seite *Ressourcen* eine der verfügbaren Optionen unter Technischer Support:</block>
+  <block id="6a1b74969231967ed071d465206b15c7" category="list-text">Wählen Sie *Rufen Sie uns an*, wenn Sie mit jemandem am Telefon sprechen möchten. Sie werden zu einer Seite auf netapp.com weitergeleitet, auf der die Telefonnummern aufgeführt sind, die Sie anrufen können.</block>
+  <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">Wählen Sie *Fall erstellen*, um ein Ticket mit einem NetApp-Supportspezialisten zu öffnen:</block>
+  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*Service*: Wählen Sie den Dienst aus, mit dem das Problem verknüpft ist. Beispiel: BlueXP, wenn es sich um ein Problem des technischen Supports mit Workflows oder Funktionen im Service handelt.</block>
+  <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*Arbeitsumgebung*: Wählen Sie *Cloud Volumes ONTAP* oder *On-Prem* und anschließend die zugehörige Arbeitsumgebung aus.</block>
+  <block id="98d90e398fc56688ddc647e5f49075ec" category="paragraph">Die Liste der Arbeitsumgebungen liegt im Bereich der BlueXP -Organisation (oder des Accounts), des Projekts (oder des Arbeitsbereichs) und des Connectors, den Sie im oberen Banner des Service ausgewählt haben.</block>
+  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*Case Priority*: Wählen Sie die Priorität für den Fall, der niedrig, Mittel, hoch oder kritisch sein kann.</block>
+  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">Wenn Sie weitere Informationen zu diesen Prioritäten wünschen, bewegen Sie den Mauszeiger über das Informationssymbol neben dem Feldnamen.</block>
+  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*Problembeschreibung*: Geben Sie eine detaillierte Beschreibung Ihres Problems an, einschließlich aller anwendbaren Fehlermeldungen oder Fehlerbehebungsschritte, die Sie durchgeführt haben.</block>
+  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*Zusätzliche E-Mail-Adressen*: Geben Sie zusätzliche E-Mail-Adressen ein, wenn Sie jemand anderes auf dieses Problem aufmerksam machen möchten.</block>
+  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Anhang (optional)*: Laden Sie bis zu fünf Anhänge nacheinander hoch.</block>
+  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Anhänge sind auf 25 MB pro Datei begrenzt. Folgende Dateierweiterungen werden unterstützt: Txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx und csv.</block>
+  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">Screenshot aus dem Formular „Create a Case“, in dem Sie einen Case beim NetApp Support erstellen können</block>
+  <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">Nachdem Sie fertig sind</block>
+  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">Es wird ein Popup-Fenster mit der Support-Fallnummer angezeigt. Ein NetApp Support-Experte prüft Ihren Fall und macht Sie umgehend mit.</block>
+  <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">Um eine Historie deiner Support-Fälle anzuzeigen, kannst du *Einstellungen &gt; Chronik* auswählen und nach Aktionen mit dem Namen „Support-Case erstellen“ suchen. Mit einer Schaltfläche ganz rechts können Sie die Aktion erweitern, um Details anzuzeigen.</block>
+  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">Es ist möglich, dass beim Versuch, einen Fall zu erstellen, möglicherweise die folgende Fehlermeldung angezeigt wird:</block>
+  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">„Sie sind nicht berechtigt, einen Fall für den ausgewählten Service zu erstellen.“</block>
+  <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">Dieser Fehler könnte bedeuten, dass das NSS-Konto und das Unternehmen des Datensatzes, mit dem es verbunden ist, nicht das gleiche Unternehmen des Eintrags für die BlueXP Account Seriennummer (dh 960xxxx) oder Seriennummer der Arbeitsumgebung. Sie können Hilfe mit einer der folgenden Optionen anfordern:</block>
+  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">Verwenden Sie den Chat im Produkt</block>
+  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">Übermitteln Sie einen nicht-technischen Case unter<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
+  <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">Managen Ihrer Support-Cases (Vorschau)</block>
+  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">Sie können aktive und gelöste Support-Cases direkt über BlueXP anzeigen und managen. Sie können die mit Ihrem NSS-Konto und Ihrem Unternehmen verbundenen Fälle verwalten.</block>
+  <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">Case Management ist als Vorschau verfügbar. Wir planen, diese Erfahrungen weiter zu verbessern und in zukünftigen Versionen Verbesserungen hinzuzufügen. Bitte senden Sie uns Ihr Feedback über den Product-Chat.</block>
+  <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">Beachten Sie Folgendes:</block>
+  <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">Das Case-Management-Dashboard oben auf der Seite bietet zwei Ansichten:</block>
+  <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">Die Ansicht auf der linken Seite zeigt die Gesamtzahl der Fälle, die in den letzten 3 Monaten durch das von Ihnen angegebene NSS-Benutzerkonto eröffnet wurden.</block>
+  <block id="e3b6c09a5686233f72ce1ea60a1eb088" category="list-text">Die Ansicht auf der rechten Seite zeigt die Gesamtzahl der in den letzten 3 Monaten auf Unternehmensebene eröffneten Fälle basierend auf Ihrem NSS-Benutzerkonto an.</block>
+  <block id="b19b168cc8a2b8c984465e140256b3a2" category="paragraph">Die Ergebnisse in der Tabelle geben die Fälle in Bezug auf die ausgewählte Ansicht wieder.</block>
+  <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">Sie können interessante Spalten hinzufügen oder entfernen und den Inhalt von Spalten wie Priorität und Status filtern. Andere Spalten bieten nur Sortierfunktionen.</block>
+  <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">Weitere Informationen erhalten Sie in den Schritten unten.</block>
+  <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">Auf Fallebene bieten wir die Möglichkeit, Fallnotizen zu aktualisieren oder einen Fall zu schließen, der sich noch nicht im Status „Geschlossen“ oder „Geschlossen“ befindet.</block>
+  <block id="0a4050ac39772e9281a9aba225254bf8" category="list-text">Wählen Sie *Case Management* aus und fügen Sie bei Aufforderung Ihr NSS-Konto zu BlueXP hinzu.</block>
+  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">Auf der Seite *Case Management* werden offene Fälle im Zusammenhang mit dem NSS-Konto angezeigt, das mit Ihrem BlueXP Benutzerkonto verknüpft ist. Dies ist das gleiche NSS-Konto, das oben auf der Seite *NSS Management* angezeigt wird.</block>
+  <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">Ändern Sie optional die in der Tabelle angezeigten Informationen:</block>
+  <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">Wählen Sie unter *Vorgänge der Organisation* *Ansicht* aus, um alle mit Ihrem Unternehmen verbundenen Fälle anzuzeigen.</block>
+  <block id="059e856250b59be3069246887b74a23c" category="list-text">Ändern Sie den Datumsbereich, indem Sie einen genauen Datumsbereich oder einen anderen Zeitrahmen auswählen.</block>
+  <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">Ein Screenshot der Option über der Tabelle auf der Seite Case Management, mit der Sie einen genauen Datumsbereich oder die letzten 7 Tage, 30 Tage oder 3 Monate auswählen können.</block>
+  <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">Filtern Sie den Inhalt der Spalten.</block>
+  <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">Ein Screenshot der Filteroption in der Spalte Status, in dem Sie Fälle filtern können, die einem bestimmten Status entsprechen, z. B. aktiv oder Geschlossen.</block>
+  <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">Das Plus-Symbol, das in der Tabelle angezeigt wird</block>
+  <block id="cdf14d2156528231a5dbd12ad5c95d3f" category="list-text">Ändern Sie die Spalten, die in der Tabelle angezeigt werden, indem <block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> Sie die Spalten auswählen und dann auswählen, die Sie anzeigen möchten.</block>
+  <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">Ein Screenshot mit den Spalten, die Sie in der Tabelle anzeigen können.</block>
+  <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">Ein Symbol mit drei Punkten, das in der letzten Spalte der Tabelle angezeigt wird</block>
+  <block id="348552521b849746260fe8d296d34c15" category="list-text">Managen Sie einen bestehenden Fall, indem <block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> Sie eine der verfügbaren Optionen auswählen:</block>
+  <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*Fall anzeigen*: Vollständige Details zu einem bestimmten Fall anzeigen.</block>
+  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Aktennotizen aktualisieren*: Geben Sie zusätzliche Details zu Ihrem Problem an oder wählen Sie *Dateien hochladen*, um maximal fünf Dateien anzuhängen.</block>
+  <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*Fall schließen*: Geben Sie Einzelheiten darüber an, warum Sie den Fall schließen und wählen Sie *Fall schließen*.</block>
+  <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Ein Screenshot, der die Aktionen zeigt, die Sie nach Auswahl des Menüs in der letzten Spalte der Tabelle durchführen können.</block>
+  <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="43bc48df07f815e5a7e77e389dc5e144" category="summary">Nachdem Sie Ihre Arbeitsumgebung eingerichtet haben, können Sie Ihre Google Cloud NetApp -Volumes anzeigen.</block>
+  <block id="9038e7cfcfe9bb9df9afd31371070be8" category="doc">Management vorhandener Volumes</block>
+  <block id="182a9bef86de098b538c3c82dd415b3d" category="paragraph">Sie können Ihre vorhandenen Volumes und alle Aktionen anzeigen, die Sie darauf ausgeführt haben.</block>
+  <block id="34397c830c77af93d96e3ed470658d45" category="inline-link">Erfahren Sie mehr über BlueXP-Zugriffsrollen für alle Dienste</block>
+  <block id="550f7f32caa2fb3ff690575cc1e16bc4" category="paragraph">*Erforderliche BlueXP -Rolle* Organisationsadministrator, Ordner- oder Projektadministrator oder Google Cloud NetApp Volumes -Administratorrolle. <block ref="c46fcff617e849cb6f8ded33051f7905" category="inline-link-rx"></block> .</block>
+  <block id="6b3c1595afc04f7a21a3249b677c0c9b" category="section-title">Anzeigen eines Volumes</block>
+  <block id="d8b95942b7e9bb5d3cc343df186da406" category="paragraph">Zeigen Sie die Details Ihrer Volumes an, z. B. Name, Anzahl, Region, Kapazität, genutzte Kapazität und Speicherpool.</block>
+  <block id="d5abb66e090486d392fc5a9d4cce9814" category="list-text">Klicken Sie auf *Arbeitsumgebung aufrufen*, um die Arbeitsumgebung zu öffnen.</block>
+  <block id="6a9903314020e84e3af325216666825e" category="inline-image-macro">Ein Symbol mit drei Punkten.</block>
+  <block id="cf5e847abc106ecce002b46d81044538" category="list-text">Um ein bestimmtes Volumen in der Tabelle anzuzeigen, wählen Sie <block ref="c412b684754967f281dffff60ff69943" category="inline-image-macro-rx" type="image"></block> und geben Sie den Datenträgernamen ein.</block>
+  <block id="b1f3a5c440e03103b0c9015c07ed0338" category="list-text">Um alle mit einem Datenträger verknüpften Beschriftungen anzuzeigen, wählen Sie in der Spalte *Beschriftungen* die Option *Anzeigen* aus.</block>
+  <block id="8079381bd4c287bba6c52f9e612572d6" category="section-title">Anzeigen des Überwachungsprotokolls</block>
+  <block id="042f0d2136855bcd9717a113dbfba91f" category="paragraph">Sie können alle an den Volumes durchgeführten Aktionen in der Zeitleiste anzeigen.</block>
+  <block id="e1692ccd3e52bad8f6fe6ee2bc3bfa14" category="list-text">Wählen Sie oben rechts *Einstellungen* &gt; *Timeline*.</block>
+  <block id="4e86398dd959a1b1f62fff6ab6207875" category="paragraph">In der Tabelle *Überwachungsprotokolle* können Sie alle auf Ihren Datenträgern ausgeführten Aktionen anzeigen.</block>
+  <block id="64cf10967d4bf7086ce7103ee9deab01" category="summary">Beginnen Sie mit Google Cloud NetApp Volumes , indem Sie Google Cloud einrichten und dann eine Arbeitsumgebung erstellen.</block>
+  <block id="65ce4dce26160be29539699c6623e379" category="doc">Erste Schritte für den Workflow</block>
+  <block id="0b61b5e8ca93a3e0642dd139f9d3e597" category="paragraph">Beginnen Sie mit Google Cloud NetApp Volumes , indem Sie Google Cloud einrichten und dann eine Arbeitsumgebung erstellen.</block>
+  <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">Eins</block>
+  <block id="77cb49dd0e189cd2b264b8acf283654d" category="inline-link-macro">Einrichten von Google Cloud NetApp Volumes</block>
+  <block id="aabf26ebaf076d5d9a7111d4e0bc4cae" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> <block ref="eea1a4cfc6828b367997af0d6bacca69" category="inline-link-macro-rx"></block></block>
+  <block id="91b07957ce4b7cb970c3aaa153fddf0c" category="paragraph">Erstellen Sie bei Google ein Dienstkonto.</block>
+  <block id="aada29daee1d64ed0fe907043855cb7e" category="inline-image-macro">Zwei</block>
+  <block id="2f3fa0d82b47eba08fd4b940c90cbea8" category="inline-link-macro">Fügen Sie eine Arbeitsumgebung hinzu</block>
+  <block id="b08d8c92b08f587e5d1b7e0d6819ce77" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> <block ref="d4ec77f4c725ead9265b60c45491b574" category="inline-link-macro-rx"></block></block>
+  <block id="7d52bf4468adcc100cfc582489a8a230" category="paragraph">Klicken Sie in BlueXP auf *Arbeitsumgebung hinzufügen* &gt; *Google Cloud Platform* &gt; * Google Cloud NetApp Volumes* &gt; *Entdecken* und geben Sie dann Details zum Dienstkonto und zum Google Cloud-Projekt ein.</block>
+  <block id="6c5416b684f5dd6d9602dabcc6ee84a8" category="summary">Sie können ein Google Cloud NetApp Volumes für Google Cloud-Abonnement und alle vorhandenen Volumes aus BlueXP entfernen. Dadurch werden Google Cloud NetApp Volumes aus BlueXP entfernt. Ihr Google Cloud NetApp Volumes Konto oder Ihre Volumes werden dadurch nicht gelöscht. Sie können Google Cloud NetApp Volumes jederzeit wieder zu BlueXP hinzufügen.</block>
+  <block id="a2a38c6cf86f53a69a9cd6b4d3dd9496" category="doc">Google Cloud NetApp Volumes aus BlueXP entfernen</block>
+  <block id="35d165d9ed7e66d8c34f594326b8e4fd" category="paragraph">Sie können ein Google Cloud NetApp Volumes -Abonnement und alle vorhandenen Volumes aus BlueXP entfernen. Die Volumes werden nicht gelöscht, sondern aus allen Projekten in BlueXP entfernt und können später wiedergefunden werden.</block>
+  <block id="1c8d8bb96f91cab1eb47b0ca6a70eb37" category="admonition">Sie können Google Cloud NetApp Volumes nicht aus BlueXP löschen. Führen Sie diese Aktion über die Google Cloud Console aus.</block>
+  <block id="6c970f68c7cf5a446d127ac3ab6d72f7" category="list-text">Öffnen Sie die Arbeitsumgebung.</block>
+  <block id="7f4b4166bc4f213b491a78294c38f4f3" category="list-text">Klicken Sie auf das <block ref="8891ca04a345a35bd7da25d57718d9b7" category="inline-image-macro-rx" type="image"></block> und klicken Sie auf *Entfernen*.</block>
+  <block id="2870f7f810e8d5981882070cd803bbd5" category="summary">BlueXP benötigt Zugriff auf die Google Cloud NetApp Volumes API und die richtigen Berechtigungen über ein Google Cloud-Dienstkonto.</block>
+  <block id="635d606b676b3f92a6204c15ecb1d666" category="paragraph">BlueXP benötigt die richtigen Berechtigungen über ein Google Cloud-Dienstkonto.</block>
+  <block id="ec8725380aa2f688c9b9d45557c44600" category="section-title">Erstellen eines Servicekontos</block>
+  <block id="b87ecb1d933b8e5835c8e93327f7676e" category="paragraph">Führen Sie die folgenden Aufgaben aus, damit BlueXP auf Ihr Google Cloud-Projekt zugreifen kann:</block>
+  <block id="cb939d621f46e6895da8fb3a52fbcf83" category="list-text">Erstellen Sie ein neues Dienstkonto</block>
+  <block id="172cabf35e2da2e485725633d4544c4b" category="list-text">Fügen Sie das neue Servicekontomitglied zu Ihrem Projekt hinzu und weisen Sie ihm spezifische Rollen (Berechtigungen) zu.</block>
+  <block id="b8da17ea9f82689a4cc87ac02b337328" category="list-text">Erstellen und Herunterladen eines Schlüsselpaares für das Dienstkonto, das zur Authentifizierung bei Google verwendet wird</block>
+  <block id="ab6fcc124e86604f6bab5da13aaea51a" category="inline-link">Rufen Sie die Seite Servicekonten auf</block>
+  <block id="7dc4b63dc4834aecd751b91ed3de3d39" category="list-text">In der Google Cloud-Konsole <block ref="72863ecd427c906452e0c3d21111bdac" category="inline-link-rx"></block> .</block>
+  <block id="e4ca5adc5a86c098ce9d6bd2f42dc178" category="list-text">Klicken Sie auf *Wählen Sie ein Projekt*, wählen Sie Ihr Projekt aus und klicken Sie auf *Öffnen*.</block>
+  <block id="bdac2dc9c1216cbabea4f0c3c6dbd7eb" category="list-text">Klicken Sie auf *Dienstkonto erstellen*.</block>
+  <block id="81c36eb6a7aa6110855ae09fd80381ab" category="list-text">Geben Sie den Namen des Dienstkontos (Anzeigename) und die Beschreibung ein.</block>
+  <block id="66335d9ae4276106da10a758c0c3c8b7" category="paragraph">Die Cloud Console generiert auf Grundlage dieses Namens ein Service-Konto-ID. Bearbeiten Sie die ID bei Bedarf – Sie können die ID später nicht ändern.</block>
+  <block id="8971b16610cb4efa4b6c83e3ad176094" category="list-text">Um die Zugriffskontrollen jetzt einzustellen, klicken Sie unten auf der Seite auf *Erstellen* und dann auf *FERTIG*, und fahren Sie mit dem nächsten Schritt fort.</block>
+  <block id="4bd66ea95ac91bc82cdc097c3614f96c" category="list-text">Klicken Sie auf der Seite _IAM_ auf *Hinzufügen* und füllen Sie die Felder auf der Seite _Mitglieder hinzufügen_ aus:</block>
+  <block id="8d549e601fd570fd51b0bddb07a08462" category="list-text">Geben Sie im Feld Neue Mitglieder die Konto-ID für den vollständigen Service ein.</block>
+  <block id="1d172c52399b8bfd31a6c902f515b82d" category="paragraph">Beispiel: \user1-service-account-gcnv@project1.iam.gserviceaccount.com</block>
+  <block id="e6915ea331526f7f3221d5b019733157" category="list-text">Fügen Sie die folgenden Rollen hinzu:</block>
+  <block id="ea34dd9c3c884049d43a2ee08126a1e2" category="list-text">_NetApp Cloud Volumes Admin_</block>
+  <block id="a69f1e2412a22a1f3153b3553fb2a1d1" category="list-text">Netzwerk-Viewer Berechnen_</block>
+  <block id="4cc186df234138a57b2e8c5d8e5f7f8d" category="list-text">Klicken Sie Auf *Speichern*.</block>
+  <block id="1baa368f450d37450a1cb47c6b7dd320" category="list-text">Klicken Sie auf den Namen des Dienstkontos, und klicken Sie dann auf der Seite _Service Account Details_ auf *Add key &gt; Create New key*.</block>
+  <block id="744132d4bfa3718f3315f6d3187cba60" category="list-text">Wählen Sie als Schlüsseltyp *JSON* aus und klicken Sie auf *Erstellen*.</block>
+  <block id="ef17d662e8cfc44a88102effe9136080" category="paragraph">Durch Klicken auf *Erstellen* wird Ihr neues Public/Private Key-Paar generiert und auf Ihr System heruntergeladen. Es dient als einzige Kopie des privaten Schlüssels. Speichern Sie diese Datei sicher, da sie zur Authentifizierung als Dienstkonto verwendet werden kann.</block>
+  <block id="0eff7de92af8c65ac32bf20be9393a92" category="paragraph">Ausführliche Schritte finden Sie in der Google Cloud-Dokumentation:</block>
+  <block id="7ef475b3aa654a4c77b576b7b693b979" category="inline-link-macro">Erstellen und Verwalten von Servicekonten</block>
+  <block id="fc4ab4403cd96c67fe73442b8080f683" category="list-text"><block ref="fc4ab4403cd96c67fe73442b8080f683" category="inline-link-macro-rx"></block></block>
+  <block id="b666e33c85ae74bc39da9e25479b2d5b" category="inline-link-macro">Gewähren, Ändern und Entzug des Zugriffs auf Ressourcen</block>
+  <block id="543336bbad88b5d4f6aab813afbcd38f" category="list-text"><block ref="543336bbad88b5d4f6aab813afbcd38f" category="inline-link-macro-rx"></block></block>
+  <block id="17337f696c024b9e31f4396f97e2d0b0" category="inline-link-macro">Erstellen und Verwalten von Service-Kontokasten</block>
+  <block id="29d3428cb13e4cac2f40807938da5dc8" category="list-text"><block ref="29d3428cb13e4cac2f40807938da5dc8" category="inline-link-macro-rx"></block></block>
+  <block id="243263104c829e77835d632f591230d5" category="summary">Bevor Sie einen Support-Fall beim technischen Support von NetApp eröffnen können, müssen Sie BlueXP ein NetApp Support Site Konto hinzufügen und sich dann für den Support registrieren.</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">Für den Support anmelden</block>
+  <block id="ece19bab46695021f109a5e50f08bebe" category="paragraph">Für den Support von BlueXP und seinen Storage-Lösungen und Services ist eine Support-Registrierung erforderlich. Um wichtige Workflows für Cloud Volumes ONTAP Systeme zu ermöglichen, ist außerdem eine Support-Registrierung erforderlich.</block>
+  <block id="8a3d807608e632d188a288fc5f4aa7eb" category="paragraph">Durch die Registrierung für den Support wird die NetApp-Unterstützung für einen Fileservice eines Cloud-Providers nicht aktiviert. Technischen Support zu Fileservices von Cloud-Providern, zu seiner Infrastruktur oder zu beliebigen Lösungen, die den Service verwenden, finden Sie im Abschnitt „Hilfe erhalten“ in der BlueXP Dokumentation zu diesem Produkt.</block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">Übersicht über die Support-Registrierung</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">Es gibt zwei Registrierungsformulare, um die Support-Berechtigung zu aktivieren:</block>
+  <block id="29360bfcdbc91d3f1514c372b4585965" category="list-text">Registrieren der Seriennummer Ihres BlueXP -Kontos (Ihre 20-stellige Seriennummer 960xxxxxxxxx finden Sie auf der Seite „Support-Ressourcen“ in BlueXP ).</block>
+  <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">Dies dient als Ihre einzige Support-Abonnement-ID für jeden Service in BlueXP. Jedes BlueXP-Abonnement für Support auf Kontoebene muss registriert werden.</block>
+  <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">Registrieren der Cloud Volumes ONTAP Seriennummern für ein Abonnement auf dem Markt Ihres Cloud-Providers (dies sind 20-stellige Seriennummern von 909201xxxxxx).</block>
+  <block id="67dbdeb11e22ea7def810bade59ce818" category="paragraph">Diese Seriennummern werden als _PAYGO Seriennummern_ bezeichnet und werden zum Zeitpunkt der Cloud Volumes ONTAP Implementierung von BlueXP generiert.</block>
+  <block id="28164bf9e881ddc9e7ff74744bfce180" category="paragraph">Durch das Registrieren beider Arten von Seriennummern können Kunden Funktionen wie das Öffnen von Support-Tickets und die automatische Erstellung von Support-Cases nutzen. Die Registrierung ist abgeschlossen, indem wie unten beschrieben Konten der NetApp Support Website (NSS) zu BlueXP hinzugefügt werden.</block>
+  <block id="444b74bc81e823cc1c4c704219ad8ed3" category="section-title">Registrieren Sie BlueXP , um NetApp Support zu erhalten</block>
+  <block id="b3bf31f8a918c712f26cdf493a908825" category="paragraph">Um sich für den Support zu registrieren und die Supportberechtigung zu aktivieren, muss ein Benutzer in Ihrer BlueXP  Organisation (oder Ihrem Konto) einem NetApp Support Site Konto seine BlueXP  Anmeldedaten zuweisen. Wie Sie sich für den NetApp Support registrieren, hängt davon ab, ob Sie bereits über einen NSS Account (NetApp Support Site) verfügen.</block>
+  <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">Bestandskunde mit NSS-Konto</block>
+  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">Wenn Sie ein NetApp Kunde mit einem NSS-Konto sind, müssen Sie sich lediglich für den Support über BlueXP registrieren.</block>
+  <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">Klicken Sie oben rechts auf der BlueXP Konsole auf das Symbol Einstellungen, und wählen Sie *Credentials* aus.</block>
+  <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">Wählen Sie *Benutzeranmeldeinformationen*.</block>
+  <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">Wählen Sie *NSS-Anmeldeinformationen hinzufügen* und folgen Sie der Eingabeaufforderung für die NetApp-Support-Website (NSS)-Authentifizierung.</block>
+  <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">Um zu bestätigen, dass die Registrierung erfolgreich war, wählen Sie das Hilfesymbol und dann *Support*.</block>
+  <block id="2ba7f9eae7a02f9c3ac0fc07517d1c48" category="paragraph">Auf der Seite *Ressourcen* sollte angezeigt werden, dass Ihre BlueXP -Organisation für Support registriert ist.</block>
+  <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">Ein Screenshot mit einer Seriennummer des Kontos und einem grünen Kontrollkästchen sowie dem für den Support registrierten Text.</block>
+  <block id="3d183819a15163ef2e2e7d9d764254a9" category="paragraph"><block ref="3d183819a15163ef2e2e7d9d764254a9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c05e530d1466e986d570cfe3f92656c3" category="paragraph">Beachten Sie, dass andere BlueXP Benutzer diesen Support-Registrierungsstatus nicht sehen, wenn sie ihrem BlueXP Login kein NetApp Support Site Konto zugeordnet haben. Das bedeutet jedoch nicht, dass Ihre BlueXP -Organisation nicht für Support registriert ist. Solange ein Benutzer in der Organisation diese Schritte befolgt hat, wurde Ihr Unternehmen registriert.</block>
+  <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">Vorhandener Kunde, aber kein NSS-Konto</block>
+  <block id="bdd862f49d428a850400bcf2f53cdaf2" category="paragraph">Wenn Sie bereits NetApp Kunde sind und über vorhandene Lizenzen und Seriennummern sowie _No_ NSS Konto verfügen, müssen Sie ein NSS Konto erstellen und es Ihren BlueXP Anmeldedaten zuordnen.</block>
+  <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">NetApp Support Site-Formular zur Benutzerregistrierung</block>
+  <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">Erstellen Sie ein NetApp Support Site Konto, indem Sie das abschließen<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="d61c9f72493817776f392db42ac446a2" category="list-text">Stellen Sie sicher, dass Sie die entsprechende Benutzerebene wählen, die normalerweise *NetApp Kunde/Endbenutzer* ist.</block>
+  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">Kopieren Sie unbedingt die oben verwendete BlueXP-Kontonummer (960xxxx) für das Feld Seriennummer. Dadurch wird die Kontobearbeitung beschleunigt.</block>
+  <block id="0499bba105f8a891a2c671f1ba99dd34" category="list-text">Ordnen Sie Ihr neues NSS-Konto Ihrem BlueXP-Login zu, indem Sie die unter aufgeführten Schritte ausführen <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>.</block>
+  <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">Neu bei NetApp</block>
+  <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">Wenn Sie neu bei NetApp sind und über keinen NSS-Account verfügen, befolgen Sie jeden Schritt unten.</block>
+  <block id="d889e6e7cc4c5509ab5b37f8fc894e46" category="list-text">Klicken Sie oben rechts auf der BlueXP Konsole auf das Hilfesymbol und wählen Sie *Support* aus.</block>
+  <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">Ein Screenshot des Hilfemenü, in dem Support die erste Option aufgeführt ist</block>
+  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">Suchen Sie auf der Seite für die Support-Registrierung die Seriennummer Ihres Kontos.</block>
+  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">Die Support-Registrierungs-Website von NetApp</block>
+  <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">Navigieren Sie zu<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> und wählen Sie *Ich bin kein registrierter NetApp-Kunde*.</block>
+  <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">Füllen Sie die Pflichtfelder aus (mit roten Sternchen).</block>
+  <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">Wählen Sie im Feld *Product Line* die Option *Cloud Manager* aus, und wählen Sie dann den gewünschten Abrechnungsanbieter aus.</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">Kopieren Sie die Seriennummer des Kontos von Schritt 2 oben, füllen Sie die Sicherheitsprüfung aus und bestätigen Sie dann, dass Sie die globale Datenschutzrichtlinie von NetApp lesen.</block>
+  <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">Zur Fertigstellung dieser sicheren Transaktion wird sofort eine E-Mail an die angegebene Mailbox gesendet. Überprüfen Sie Ihre Spam-Ordner, wenn die Validierungs-E-Mail nicht in wenigen Minuten ankommt.</block>
+  <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">Bestätigen Sie die Aktion in der E-Mail.</block>
+  <block id="201080500e946070a2e4873042507c77" category="paragraph">Indem Sie Ihre Anfrage an NetApp senden, wird Ihnen die Erstellung eines NetApp Support Site Kontos empfohlen.</block>
+  <block id="a2454703f88e5bf5b433ae850a87151b" category="list-text">Kopieren Sie die oben angegebene Seriennummer (960xxxx) für das Feld „Seriennummer“. Dadurch wird die Verarbeitung beschleunigt.</block>
+  <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">NetApp sollte sich bei diesem Prozess mit Ihnen in Verbindung setzen. Dies ist eine einmalige Onboarding-Übung für neue Benutzer.</block>
+  <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">Wenn Sie über Ihren Account für die NetApp Support-Website verfügen, ordnen Sie das Konto Ihrer BlueXP Anmeldung zu, indem Sie die unter aufgeführten Schritte ausführen <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>.</block>
+  <block id="3e616bae81890a6c8fae17c9b45af152" category="section-title">Verknüpfen von NSS-Anmeldeinformationen für den Cloud Volumes ONTAP-Support</block>
+  <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Um die folgenden wichtigen Workflows für Cloud Volumes ONTAP zu ermöglichen, müssen die Zugangsdaten auf der NetApp Support Website Ihrer BlueXP  Abteilung zugeordnet werden:</block>
+  <block id="a0518a10626dc11fd00e2d20265ad240" category="list-text">Registrieren von Pay-as-you-go Cloud Volumes ONTAP Systemen für Support</block>
+  <block id="321aadf78ef73521712291b7aba6411f" category="paragraph">Die Bereitstellung Ihres NSS Kontos ist erforderlich, um Support für Ihr System zu aktivieren und Zugang zu den technischen Support-Ressourcen von NetApp zu erhalten.</block>
+  <block id="d51b2b497db445a16b1c9583c1abbb59" category="list-text">Implementierung von Cloud Volumes ONTAP unter Verwendung von BYOL (Bring-Your-Own-License)</block>
+  <block id="2ebfeabed40c2270d9fa8325080a4b3e" category="paragraph">Die Bereitstellung Ihres NSS-Kontos ist erforderlich, damit BlueXP Ihren Lizenzschlüssel hochladen und das Abonnement für den von Ihnen erworbenen Zeitraum aktivieren kann. Dies schließt automatische Updates für Vertragsverlängerungen ein.</block>
+  <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">Aktualisieren der Cloud Volumes ONTAP Software auf die neueste Version</block>
+  <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">Das Zuordnen von NSS-Anmeldeinformationen zu Ihrer BlueXP -Organisation unterscheidet sich von dem NSS-Konto, das mit einer BlueXP -Benutzeranmeldung verknüpft ist.</block>
+  <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Diese NSS-Anmeldedaten sind mit Ihrer spezifischen BlueXP -Organisations-ID verknüpft. Benutzer, die zur BlueXP -Organisation gehören, können über *Support &gt; NSS-Verwaltung* auf diese Anmeldeinformationen zugreifen.</block>
+  <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">Wenn Sie über ein Konto auf Kundenebene verfügen, können Sie ein oder mehrere NSS-Konten hinzufügen.</block>
+  <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">Wenn Sie einen Partner- oder Reseller-Account haben, können Sie ein oder mehrere NSS-Konten hinzufügen, können aber nicht neben Kunden-Level Accounts hinzugefügt werden.</block>
+  <block id="c0e0b7ff0de9558404e9b77ece42948a" category="list-text">Wählen Sie *NSS-Verwaltung &gt; NSS-Konto hinzufügen*.</block>
+  <block id="85b9386ed443776127e099931d73448a" category="list-text">Wenn Sie dazu aufgefordert werden, wählen Sie *Weiter*, um zu einer Microsoft-Anmeldeseite umgeleitet zu werden.</block>
+  <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp verwendet Microsoft Entra ID als Identitätsanbieter für Authentifizierungsservices, die speziell auf Support und Lizenzierung zugeschnitten sind.</block>
+  <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">Geben Sie auf der Anmeldeseite die registrierte E-Mail-Adresse und das Kennwort Ihrer NetApp Support Site an, um den Authentifizierungsvorgang durchzuführen.</block>
+  <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">Mit diesen Aktionen kann BlueXP Ihr NSS-Konto für Dinge wie Lizenzdownloads, Softwareaktualisierungs-Verifizierung und zukünftige Support-Registrierungen verwenden.</block>
+  <block id="ec084bb25ed5b934c09b361069c246b2" category="list-text">Das NSS-Konto muss ein Konto auf Kundenebene sein (kein Gast- oder Temporärkonto). Sie können mehrere NSS-Konten auf Kundenebene haben.</block>
+  <block id="27387009488fe78dcc7cb7e3e432792f" category="list-text">Es kann nur ein NSS-Konto vorhanden sein, wenn es sich bei diesem Konto um ein Partner-Level-Konto handelt. Wenn Sie versuchen, NSS-Konten auf Kundenebene hinzuzufügen und ein Konto auf Partnerebene vorhanden ist, erhalten Sie die folgende Fehlermeldung:</block>
+  <block id="d926847e4634e19a1aa7358becc0fa27" category="paragraph">„Der NSS-Kundentyp ist für dieses Konto nicht zulässig, da es bereits NSS-Benutzer unterschiedlichen Typs gibt.“</block>
+  <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">Dasselbe gilt, wenn Sie bereits NSS-Konten auf Kundenebene haben und versuchen, ein Konto auf Partnerebene hinzuzufügen.</block>
+  <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">Bei der erfolgreichen Anmeldung wird NetApp den NSS-Benutzernamen speichern.</block>
+  <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">Ein Symbol von drei horizontalen Punkten</block>
+  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">Dies ist eine vom System generierte ID, die Ihrer E-Mail zugeordnet ist. Auf der Seite *NSS Management* können Sie Ihre E-Mail über das Menü aufrufen <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> .</block>
+  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">Wenn Sie Ihre Anmelde-Token aktualisieren müssen, gibt es im Menü auch die Option *Anmeldedaten aktualisieren* <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> .</block>
+  <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Wenn Sie diese Option verwenden, werden Sie aufgefordert, sich erneut anzumelden. Beachten Sie, dass das Token für diese Konten nach 90 Tagen abläuft. Eine Benachrichtigung wird gesendet, um Sie darüber zu informieren.</block>
+  <block id="97343788a93c5fefbf484b4b95a3e355" category="summary">Erfahren Sie, was es Neues bei der Google Cloud NetApp Volumes Unterstützung in BlueXP gibt.</block>
+  <block id="490414e0366b091220802d406e52c076" category="doc">Was ist neu</block>
+  <block id="6bf86021a24fd009a31d432250a9ad20" category="section-title">21 Juli 2025</block>
+  <block id="d086d2dfc2b17966eba63ec5f61edcc6" category="sidebar">Google Cloud NetApp Volumes ermöglicht Unternehmen die Migration und Ausführung ihrer leistungsintensiven und latenzempfindlichen Kernanwendungen in Google, ohne dass eine Refactoring-Migration für die Cloud erforderlich ist. Diese Dokumentation beschreibt die Einrichtung und Verwaltung von Google Cloud NetApp Volumes mit NetApp BlueXP.</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Los geht's</block>
+  <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">Schnellstart</block>
+  <block id="11fc1a6248b661c1127bde02baf33747" category="sidebar">Verwenden Sie Google Cloud NetApp Volumes</block>
+  <block id="e2439a8512b353f75391ba9c346bc84d" category="sidebar">Volumes managen</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Blogs und Community</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp Community</block>
+  <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXP-Blog</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Cloud-Webinare</block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="sidebar">Google Cloud NetApp Volumes</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Versionshinweise</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Was ist neu</block>
+  <block id="40b96cc305f26bed96812c2920065f5d" category="sidebar">Google Cloud einrichten</block>
+  <block id="f6c5aff43e91755ba26b1cc527f1f13e" category="sidebar">Google Cloud NetApp Volumes entfernen</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Wissen und Support</block>
+</blocks>

@@ -1,0 +1,44 @@
+---
+sidebar: sidebar 
+permalink: task-manage-volumes.html 
+keywords: google cloud netapp volumes, view volumes 
+summary: Nachdem Sie Ihre Arbeitsumgebung eingerichtet haben, können Sie Ihre Google Cloud NetApp -Volumes anzeigen. 
+---
+= Management vorhandener Volumes
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Sie können Ihre vorhandenen Volumes und alle Aktionen anzeigen, die Sie darauf ausgeführt haben.
+
+*Erforderliche BlueXP -Rolle* Organisationsadministrator, Ordner- oder Projektadministrator oder Google Cloud NetApp Volumes -Administratorrolle.  https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Erfahren Sie mehr über BlueXP-Zugriffsrollen für alle Dienste"^] .
+
+
+
+== Anzeigen eines Volumes
+
+Zeigen Sie die Details Ihrer Volumes an, z. B. Name, Anzahl, Region, Kapazität, genutzte Kapazität und Speicherpool.
+
+.Schritte
+. Klicken Sie auf *Arbeitsumgebung aufrufen*, um die Arbeitsumgebung zu öffnen.
+. Um ein bestimmtes Volumen in der Tabelle anzuzeigen, wählen Sie image:icon_search.png["Ein Symbol mit drei Punkten."] und geben Sie den Datenträgernamen ein.
+. Um alle mit einem Datenträger verknüpften Beschriftungen anzuzeigen, wählen Sie in der Spalte *Beschriftungen* die Option *Anzeigen* aus.
+
+
+
+
+== Anzeigen des Überwachungsprotokolls
+
+Sie können alle an den Volumes durchgeführten Aktionen in der Zeitleiste anzeigen.
+
+.Schritte
+. Wählen Sie oben rechts *Einstellungen* > *Timeline*.
+
+
+.Ergebnis
+In der Tabelle *Überwachungsprotokolle* können Sie alle auf Ihren Datenträgern ausgeführten Aktionen anzeigen.
