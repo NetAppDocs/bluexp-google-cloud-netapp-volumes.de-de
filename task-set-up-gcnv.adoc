@@ -16,18 +16,18 @@ summary: BlueXP benötigt Zugriff auf die Google Cloud NetApp Volumes API und di
 [role="lead"]
 BlueXP benötigt die richtigen Berechtigungen über ein Google Cloud-Dienstkonto.
 
-
-
-== Erstellen eines Servicekontos
-
 Führen Sie die folgenden Aufgaben aus, damit BlueXP auf Ihr Google Cloud-Projekt zugreifen kann:
 
 * Wenn Sie noch kein bestehendes Servicekonto haben, erstellen Sie ein neues.
 * Fügen Sie das Dienstkontomitglied zu Ihrem Projekt hinzu und weisen Sie ihm bestimmte Rollen (Berechtigungen) zu.
 * Erstellen und laden Sie ein Schlüsselpaar für das Dienstkonto herunter, das zur Authentifizierung bei Google verwendet wird.
+* Gewähren Sie die IAM-Rolle im freigegebenen Projekt.
 
 
-.Schritte
+
+
+== Erstellen eines Servicekontos
+
 . In der Google Cloud-Konsole  https://console.cloud.google.com/iam-admin/serviceaccounts["Rufen Sie die Seite Servicekonten auf"^] .
 . Klicken Sie auf *Wählen Sie ein Projekt*, wählen Sie Ihr Projekt aus und klicken Sie auf *Öffnen*.
 . (Optional) Gehen Sie wie folgt vor, um ein Dienstkonto zu erstellen:
@@ -40,7 +40,24 @@ Die Cloud Console generiert auf Grundlage dieses Namens ein Service-Konto-ID. Be
 .. Um die Zugriffskontrollen jetzt einzustellen, klicken Sie unten auf der Seite auf *Erstellen* und dann auf *FERTIG*, und fahren Sie mit dem nächsten Schritt fort.
 
 
-. Klicken Sie auf der Seite _IAM_ auf *Hinzufügen* und füllen Sie die Felder auf der Seite _Mitglieder hinzufügen_ aus:
+
+
+
+
+== Erstellen und Herunterladen eines Schlüsselpaars
+
+. Klicken Sie auf den Namen des Dienstkontos, und klicken Sie dann auf der Seite _Service Account Details_ auf *Add key > Create New key*.
+. Wählen Sie als Schlüsseltyp *JSON* aus und klicken Sie auf *Erstellen*.
++
+Durch Klicken auf *Erstellen* wird Ihr neues Public/Private Key-Paar generiert und auf Ihr System heruntergeladen. Es dient als einzige Kopie des privaten Schlüssels. Speichern Sie diese Datei sicher, da sie zur Authentifizierung als Dienstkonto verwendet werden kann.
+
+
+
+
+
+== Fügen Sie das Dienstkontomitglied hinzu
+
+. Klicken Sie auf der _IAM-Seite_ auf *Hinzufügen* und füllen Sie die Felder auf der Seite _Mitglieder hinzufügen_ aus:
 +
 .. Geben Sie im Feld Neue Mitglieder die Konto-ID für den vollständigen Service ein.
 +
@@ -52,14 +69,22 @@ Beispiel: \user1-service-account-gcnv@project1.iam.gserviceaccount.com
 *** _Google Cloud NetApp Volumes Viewer_
 
 
-.. Klicken Sie Auf *Speichern*.
 
 
-. Klicken Sie auf den Namen des Dienstkontos, und klicken Sie dann auf der Seite _Service Account Details_ auf *Add key > Create New key*.
-. Wählen Sie als Schlüsseltyp *JSON* aus und klicken Sie auf *Erstellen*.
-+
-Durch Klicken auf *Erstellen* wird Ihr neues Public/Private Key-Paar generiert und auf Ihr System heruntergeladen. Es dient als einzige Kopie des privaten Schlüssels. Speichern Sie diese Datei sicher, da sie zur Authentifizierung als Dienstkonto verwendet werden kann.
+. Klicken Sie Auf *Speichern*.
 
+
+
+
+== Erstellen einer freigegebenen VPC
+
+Gehen Sie in jedem weiteren GCP-Projekt, das das Dienstkonto verwendet, wie folgt vor:
+
+. Wählen Sie auf der _IAM-Seite_ das Shared VPC-Hostprojekt aus dem Projekt-Dropdown-Menü aus.
+. Klicken Sie auf *Hauptbenutzer hinzufügen*.
+. Geben Sie im Feld *Neue Auftraggeber* die E-Mail-Adresse Ihres Dienstkontos ein.
+. Wählen Sie aus der Dropdown-Liste *Rolle auswählen* die Administratorrolle von Google Cloud NetApp Volumes aus.
+. Klicken Sie Auf *Speichern*.
 
 
 Ausführliche Schritte finden Sie in der Google Cloud-Dokumentation:

@@ -204,14 +204,12 @@
   <block id="81c36eb6a7aa6110855ae09fd80381ab" category="list-text">Geben Sie den Namen des Dienstkontos (Anzeigename) und die Beschreibung ein.</block>
   <block id="66335d9ae4276106da10a758c0c3c8b7" category="paragraph">Die Cloud Console generiert auf Grundlage dieses Namens ein Service-Konto-ID. Bearbeiten Sie die ID bei Bedarf – Sie können die ID später nicht ändern.</block>
   <block id="8971b16610cb4efa4b6c83e3ad176094" category="list-text">Um die Zugriffskontrollen jetzt einzustellen, klicken Sie unten auf der Seite auf *Erstellen* und dann auf *FERTIG*, und fahren Sie mit dem nächsten Schritt fort.</block>
-  <block id="4bd66ea95ac91bc82cdc097c3614f96c" category="list-text">Klicken Sie auf der Seite _IAM_ auf *Hinzufügen* und füllen Sie die Felder auf der Seite _Mitglieder hinzufügen_ aus:</block>
   <block id="8d549e601fd570fd51b0bddb07a08462" category="list-text">Geben Sie im Feld Neue Mitglieder die Konto-ID für den vollständigen Service ein.</block>
   <block id="1d172c52399b8bfd31a6c902f515b82d" category="paragraph">Beispiel: \user1-service-account-gcnv@project1.iam.gserviceaccount.com</block>
   <block id="4cc186df234138a57b2e8c5d8e5f7f8d" category="list-text">Klicken Sie Auf *Speichern*.</block>
   <block id="1baa368f450d37450a1cb47c6b7dd320" category="list-text">Klicken Sie auf den Namen des Dienstkontos, und klicken Sie dann auf der Seite _Service Account Details_ auf *Add key &gt; Create New key*.</block>
   <block id="744132d4bfa3718f3315f6d3187cba60" category="list-text">Wählen Sie als Schlüsseltyp *JSON* aus und klicken Sie auf *Erstellen*.</block>
   <block id="ef17d662e8cfc44a88102effe9136080" category="paragraph">Durch Klicken auf *Erstellen* wird Ihr neues Public/Private Key-Paar generiert und auf Ihr System heruntergeladen. Es dient als einzige Kopie des privaten Schlüssels. Speichern Sie diese Datei sicher, da sie zur Authentifizierung als Dienstkonto verwendet werden kann.</block>
-  <block id="0eff7de92af8c65ac32bf20be9393a92" category="paragraph">Ausführliche Schritte finden Sie in der Google Cloud-Dokumentation:</block>
   <block id="7ef475b3aa654a4c77b576b7b693b979" category="inline-link-macro">Erstellen und Verwalten von Servicekonten</block>
   <block id="fc4ab4403cd96c67fe73442b8080f683" category="list-text"><block ref="fc4ab4403cd96c67fe73442b8080f683" category="inline-link-macro-rx"></block></block>
   <block id="b666e33c85ae74bc39da9e25479b2d5b" category="inline-link-macro">Gewähren, Ändern und Entzug des Zugriffs auf Ressourcen</block>
@@ -320,4 +318,15 @@
   <block id="0a2be9e155b7a35429d8207201437a43" category="list-text">Fügen Sie eine dieser Rollen hinzu:</block>
   <block id="af76aae9134ddcda5d6f5f3c80e43816" category="list-text">_Google Cloud NetApp Volumes Admin_ ODER</block>
   <block id="583f7e9208c61bd50e0d1e4d972cecda" category="list-text">_Google Cloud NetApp Volumes Viewer_</block>
+  <block id="913de1bf08a6316fa527cd3eea7e91ef" category="list-text">Gewähren Sie die IAM-Rolle im freigegebenen Projekt.</block>
+  <block id="e4815c1b80eceb906b33141a218966a0" category="section-title">Erstellen und Herunterladen eines Schlüsselpaars</block>
+  <block id="116e54786f44ecd0177dd2b114e4d828" category="section-title">Fügen Sie das Dienstkontomitglied hinzu</block>
+  <block id="6d6d2ce509d08e2421b1c964eb552acc" category="list-text">Klicken Sie auf der _IAM-Seite_ auf *Hinzufügen* und füllen Sie die Felder auf der Seite _Mitglieder hinzufügen_ aus:</block>
+  <block id="5c7d6cace2aa8a387b54b9dbe8b4e2ab" category="section-title">Erstellen einer freigegebenen VPC</block>
+  <block id="bc469fcc20be5428ba31a5fd135dde8c" category="paragraph">Gehen Sie in jedem weiteren GCP-Projekt, das das Dienstkonto verwendet, wie folgt vor:</block>
+  <block id="d4f2a874cc586f639aad0321d236f3f1" category="list-text">Wählen Sie auf der _IAM-Seite_ das Shared VPC-Hostprojekt aus dem Projekt-Dropdown-Menü aus.</block>
+  <block id="5080561aad5ebf08cf55792d34a54478" category="list-text">Klicken Sie auf *Hauptbenutzer hinzufügen*.</block>
+  <block id="6e1320f8528fb1d91c934c9e05845d77" category="list-text">Geben Sie im Feld *Neue Auftraggeber* die E-Mail-Adresse Ihres Dienstkontos ein.</block>
+  <block id="1d7587af55bbbf31c385580b0657b76c" category="list-text">Wählen Sie aus der Dropdown-Liste *Rolle auswählen* die Administratorrolle von Google Cloud NetApp Volumes aus.</block>
+  <block id="287240d4cb9fa88aea6eea70340936ce" category="paragraph">Ausführliche Schritte finden Sie in der Google Cloud-Dokumentation:</block>
 </blocks>
